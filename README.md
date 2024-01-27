@@ -2,7 +2,7 @@
 #SV: Đặng Phúc Khoa - mssv: 20210486
 GVHD: TS. Vũ Thị Hương Giang
 
-Mục đích: Cài đặt và chạy thử nghiệm thuật toán Simulated Annealing, Integer Linear Programming, Tabu Search cho bài toán phân công lịch gaingr dạy cho gaingr viên trường đại học
+Mục đích: Cài đặt và chạy thử nghiệm thuật toán Simulated Annealing, Integer Linear Programming, Tabu Search cho bài toán phân công lịch giảng dạy cho giảng viên trường đại học
 
 Cấu trúc: 
 -	Folder data: chứa các file excel về data các lớp học, nguyện vọng đồ án của sinh viên, giảng viên
@@ -17,7 +17,7 @@ o	Doan.txt: Lưu thông tin các nguyện vọng đồ án gồm: Loại đồ �
 - File simulated_annealing.py: chứa thuật toán Simulated Annealing
 
 HƯỚNG DẪN CHẠY:
-Các thuật toán đưuọc chạy thử nghiêm với 3 bộ dữ liệu. Code đang chọn mặc định chạy thử nghiệm thuật toán trên bộ dữ liệu 3
+Các thuật toán được chạy thử nghiêm với 3 bộ dữ liệu. Code đang chọn mặc định chạy thử nghiệm thuật toán trên bộ dữ liệu 3
 
 + Chạy thuật toán ILP: python .\integer_programming.py
 + Chạy thuật toán tabu Search: python .\tabu_search.py
